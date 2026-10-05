@@ -52,8 +52,8 @@ backend or a specialized large-scale simulator.
 ## Install
 
 ```bash
-git clone https://github.com/Darviq-Systems/Quantum-Algorithm-Toolkit.git
-cd Quantum-Algorithm-Toolkit
+git clone https://github.com/ravishekharg/Darviq-Quantum.git
+cd Darviq-Quantum
 pip install -e ".[dev]"
 ```
 
@@ -235,3 +235,8 @@ simplification of the textbook ancilla-qubit oracle construction.
 ## License
 
 MIT
+
+## Licence
+
+Copyright (c) 2026 Darviq Systems. All rights reserved. Published for viewing and evaluation; see
+[LICENSE](LICENSE). For licensing or a custom build, contact hello@darviq.com.
